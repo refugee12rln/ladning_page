@@ -1,0 +1,17 @@
+.parent{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: relative;
+}
+
+.child {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 10px;
+    border: solid green 2px;
+    box-sizing: border-box;
+    
+
+}
